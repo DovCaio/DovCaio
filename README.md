@@ -26,8 +26,10 @@
 ###
 
 <div align="left">
+  <a>
+  <img href="www.linkedin.com/in/caio-jhonata-alves-pereira-b96441277" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a/>
   
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  href="www.linkedin.com/in/caio-jhonata-alves-pereira-b96441277"/>
 </div>
 
 
