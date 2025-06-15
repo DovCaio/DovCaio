@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Caio Jhonatan Alves Perera and I'm a Student of science computation, from UFCG</h2>
+<h2 align="left">Hi 👋! My name is Caio Jhonatan Alves Pereira and I'm a Student of science computation, from UFCG</h2>
 
 
 
